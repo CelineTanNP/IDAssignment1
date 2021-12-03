@@ -29,7 +29,7 @@
 }
 
 body {
-  background-image: url("/image/space_background.jpg");
+  background-image: url("image/space_background.jpg");
   padding-top: 5em;
   display: flex;
   justify-content: center;
@@ -77,9 +77,12 @@ p{
   flex-direction: column;
   margin-left: 150px;
 }
+@media screen and (min-width: 576px) {
+  h1{color: green;}
+  }
+  @media (min-width: 992px) {
+    h1{color: p}
 
-.typewriter{
-}
 .slider {
   width: 500px;
   height: 300px;
