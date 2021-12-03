@@ -284,3 +284,32 @@ body{
     max-width: 400px;
     height: auto;
 }
+header{
+  padding: 40px;
+  text-align: center;
+  background: white;
+  font-size: 30px;
+}
+h1{
+  color:black;
+  font-family: monospace
+}
+body{
+  background-image: linear-gradient(to right,rgb(24, 24, 134), rgb(16, 16, 27));
+}
+.interests{
+    padding: 40px;
+    text-align: center;
+    background: white;
+    font-size: 30px;
+}
+ul{
+  display: block;
+  list-style-type: disc;
+  margin-top: 1em;
+  margin-bottom: 1 em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 40px;
+}
+   
