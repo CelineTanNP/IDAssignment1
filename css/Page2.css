@@ -166,7 +166,7 @@ body{
   background-color:black;
 }
 .about{
-  color:white;
+  color:black;
   padding:10px;
   font-size: 30px;
   font-family: 'Cabin', sans-serif;
@@ -317,4 +317,4 @@ ul{
   margin-right: 0;
   padding-left: 40px;
 }
-   
+  }
