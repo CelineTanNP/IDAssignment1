@@ -27,9 +27,9 @@
 .sidenav a:hover {
   color: #f1f1f1;
 }
-
 body {
-  background-image: url("image/space_background.jpg");
+  background-image: url("image/sky.gif");
+  background-color: #cccccc;
   padding-top: 5em;
   display: flex;
   justify-content: center;
